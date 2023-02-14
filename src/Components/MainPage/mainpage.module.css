@@ -1,3 +1,29 @@
 .mainPage {
-    background-color: #C4A484
+    background-color: #C4A484;
+    padding-top: 2rem;
+}
+
+.font {
+    font-family: 'Pacifico';
+    color: white
+}
+
+.fontParagraph {
+    font-family: 'Pacifico';
+    color: white;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.projectListSection {
+    animation: 2s ease-out 0s 1 slideInLeft;
+}
+
+@keyframes slideInLeft {
+    0% {
+      transform: translateY(100%);
+    }
+    100% {
+      transform: translateY(0);
+    }
 }
