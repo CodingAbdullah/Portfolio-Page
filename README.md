@@ -1,14 +1,14 @@
 # Project Profile Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using the Typescript template.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using Typescript.
 
 <br />
 
 ## Description
 
-A single application outlined several of the recent projects I have worked on, a simple, single, static web page deployed using <b>Github pages</b>.
+A single, static page application outlines several of the recent projects I have worked on, deployed using <b>Github pages</b>.
 
-The link to the page is:
+The link to the page is: [Profile Page](https://codingabdullah.github.io/Portfolio-Page/)
 
 <br />
 
