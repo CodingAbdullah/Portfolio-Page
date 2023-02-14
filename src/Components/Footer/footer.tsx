@@ -6,7 +6,7 @@ const Footer = () => {
 
     return (
         <footer className='footer'>
-            <h5>Copyright { year }. Powered by Typescript and React<img className='footer-logo' src={ logo } height="50" alt="No pic"/></h5>
+            <h5>Copyright { year }. Powered by Typescript and React <img className='footer-logo' src={ logo } height="50" alt="No pic"/></h5>
         </footer>
     )
 }
