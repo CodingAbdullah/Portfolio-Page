@@ -12,14 +12,15 @@
     font-family: 'Pacifico';
     color: white;
     padding-top: 1rem;
-    padding-bottom: 2rem;
+    padding-bottom: 1rem;
 }
 
 .projectListSection {
-    animation: 2s ease-out 0s 1 slideInLeft;
+    animation: 2s ease-out 0s 1 slideInTop;
+    padding-bottom: 2rem;
 }
 
-@keyframes slideInLeft {
+@keyframes slideInTop {
     0% {
       transform: translateY(100%);
     }
